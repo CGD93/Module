@@ -5,3 +5,4 @@ variable "VN-name" {}
 variable "VN-address" {}
 variable "sub-name" {}
 variable "sub-add" {}
+variable "coun" {}
