@@ -19,6 +19,6 @@ output "O-sub-name" {
 output "O-sub-add" {
   value = var.sub-add
 }
-output "count" {
+output "coun" {
   value = var.coun
 }
